@@ -1,5 +1,5 @@
 - 👋 Hi, I’m m.shibili
-- 👀 I’m interested in Embedded electronics, Hardwware development, 3D modeling and Animation.
+- 👀 I’m interested in Embedded firmware and Hardware development.
 - 📫 You can reach me at mshibili01@gmail.com
 
 <!---
